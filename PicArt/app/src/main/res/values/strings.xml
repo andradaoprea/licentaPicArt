@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PicArt</string>
+    <string name="app_id">1139223476094486</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="textview_welcome">Welcome to PicArt !</string>
+    <string name="textview_username">Username</string>
+    <string name="textview_password">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="register_btn">Register</string>
+    <string name="textview_register_username">Username</string>
+    <string name="textview_register_password">Password</string>
+    <string name="textview_register_please">Please register here !</string>
+    <string name="register2_btn">Register</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="login_button">Log in with Facebook</string>
+    <string name="welcome_fb">Welcome</string>
+
+    <string name="hello_world">Hello world!</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
